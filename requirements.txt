@@ -14,3 +14,4 @@ cryptography
 pillow
 fonttools
 langchain-openai
+ollama
