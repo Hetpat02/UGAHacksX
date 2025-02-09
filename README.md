@@ -1,6 +1,6 @@
 # UGAHacksX
 
-Link for deployed app : [https://youtu.be/D3rxnBoQpsE](https://ugahacksx-yefryn3qccwx6s2ibpal5d.streamlit.app/)
+Link for deployed app : https://ugahacksx-yefryn3qccwx6s2ibpal5d.streamlit.app/
 
 # - Team Members: 
     1. Het Pathak
