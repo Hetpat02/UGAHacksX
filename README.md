@@ -17,7 +17,7 @@
       
     GenAI 
       1. Ollama: An open-source platform for running large language models locally.
-      2. OpenAI API: For accessing advanced language models like GPT-4.
+      2. OpenAI API: For accessing advanced language models like GPT-3.5-turbo.
       3. Groq API: For using deepseek r1 using groq.
       
     Web Services and APIs
