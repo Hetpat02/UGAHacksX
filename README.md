@@ -1,5 +1,7 @@
 # UGAHacksX
 
+Link for deployed app : https://youtu.be/D3rxnBoQpsE
+
 # - Team Members: 
     1. Het Pathak
 
